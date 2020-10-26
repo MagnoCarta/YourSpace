@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "29-292976_clipart-freeuse-library-eraser-png-transparent-background-eraser.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
